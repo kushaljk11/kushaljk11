@@ -1,5 +1,5 @@
 # Kushal Jamarkattel
-# Hey Gang!!  👋
+# Hey Gang!!!  👋
 
 <p align="center">
 	<!-- Streak stats: shows longest streak and current streak -->
