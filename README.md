@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kushal Jamarkattel (JK)</h1>
 
 <h3 align="center">
-  Passionate Full-Stack Developer from Nepal 🇳🇵 <br />
+  Passionate Full-Stack Developer & UI/UX Enthusiast from Nepal 🇳🇵 <br />
   Building scalable, real-world web solutions
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;Problem+Solver+%26+Continuous+Learner;Open+Source+Contributor;Turning+Ideas+into+Reality"
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;UI%2FUX+Enthusiast;Problem+Solver+%26+Continuous+Learner;Turning+Ideas+into+Reality"
        alt="Typing SVG" />
 </p>
 
@@ -19,10 +19,11 @@
 ---
 
 ### 🚀 About Me
-- 💻 Full-stack developer focused on **clean architecture & performance**
-- 🌱 Constantly learning modern technologies
-- 🛠️ Building **real-world, scalable applications**
-- 🌍 Open to collaboration and open-source contributions
+- 💻 Full-stack developer with **UI/UX sensibility**
+- 🎨 Comfortable with **design → development workflow**
+- 🌱 Constantly learning modern tech
+- 🛠️ Building **production-ready applications**
+- 🌍 Open to collaboration and open-source
 
 ---
 
@@ -46,6 +47,11 @@
 #### 🧩 Templating
 <p align="center">
   <img src="https://skillicons.dev/icons?i=liquid" />
+</p>
+
+#### 🎨 Design & UI/UX Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
 #### 🏢 Enterprise
@@ -74,11 +80,9 @@
 ---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kushaljk11&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kushaljk11&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushaljk11&theme=tokyo-night&hide_border=true&area=true"
-       alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushaljk11&theme=tokyo-night&hide_border=true&area=true" />
 </p>
