@@ -6,6 +6,13 @@ I build **scalable, maintainable, and user-focused web applications**, combining
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushaljk11&label=Profile%20Views&color=6f42c1&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/kushaljk11?label=Followers&style=for-the-badge&color=0d6efd" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - Full-stack developer with hands-on frontend & backend experience  
@@ -20,35 +27,22 @@ I build **scalable, maintainable, and user-focused web applications**, combining
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=ruby" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,ruby" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 ### Templating / CMS
@@ -58,27 +52,56 @@ I build **scalable, maintainable, and user-focused web applications**, combining
 
 ### UI/UX & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=photoshop" />
-  <img src="https://skillicons.dev/icons?i=illustrator" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Consistency
+## 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushaljk11&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 Overall Contribution Health
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kushaljk11&show_icons=true&count_private=true&hide=stars,issues&theme=github_dark&hide_border=true&cache_seconds=1800"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kushaljk11&show_icons=true&count_private=true&hide=stars,issues&theme=default&hide_border=true&cache_seconds=1800"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kushaljk11&show_icons=true&count_private=true&hide=stars,issues&hide_border=true" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaljk11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kushaljk11&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 Language Usage (Real Exposure)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaljk11&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaljk11&layout=compact&theme=default&hide_border=true&cache_seconds=1800"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaljk11&layout=compact&hide_border=true" />
+</picture>
+
+---
+
+### 🔹 Consistency & Discipline
+<picture>
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=kushaljk11&theme=github-dark-blue&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=kushaljk11&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kushaljk11&hide_border=true" />
+</picture>
 
 ---
 
