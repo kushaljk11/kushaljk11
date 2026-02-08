@@ -26,7 +26,7 @@ I build **scalable, maintainable, and user-focused web applications**, combining
 ## 🛠️ Technical Skills
 
 ### Frontend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
 </p>
 
@@ -47,7 +47,7 @@ I build **scalable, maintainable, and user-focused web applications**, combining
 
 ### Templating / CMS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=liquid" />
+  <img src="https://skillicons.dev/icons?i=liquid" alt="Liquid Icon" width="40" height="40" />
 </p>
 
 ### UI/UX & Design
