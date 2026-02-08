@@ -31,27 +31,27 @@ I build **scalable, maintainable, and user-focused web applications**, combining
 </p>
 
 ### Backend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,ruby" />
 </p>
 
 ### Databases
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
 </p>
 
 ### DevOps & Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 ### Templating / CMS
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=liquid" />
 </p>
 
 ### UI/UX & Design
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
