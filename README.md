@@ -47,7 +47,8 @@ I build **scalable, maintainable, and user-focused web applications**, combining
 
 ### Templating / CMS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=liquid" alt="Liquid Icon" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=liquid" width="40" height="40" />
+  Shopify / Liquid
 </p>
 
 ### UI/UX & Design
