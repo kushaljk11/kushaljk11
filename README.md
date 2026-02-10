@@ -5,7 +5,7 @@
 
 <!-- ===================== INTRO TYPING ===================== -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=6F42C1&center=true&vCenter=true&width=760&lines=Scalable+Web+Applications;Clean+Architecture+%26+Maintainable+Code;Modern+Frontend+%2B+Reliable+Backend;UI%2FUX-Aware+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=white&center=true&vCenter=true&width=760&lines=Scalable+Web+Applications;Clean+Architecture+%26+Maintainable+Code;Modern+Frontend+%2B+Reliable+Backend;UI%2FUX-Aware+Engineering" />
 </div>
 
 <!-- ===================== LINKS ===================== -->
