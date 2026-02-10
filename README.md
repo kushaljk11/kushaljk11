@@ -110,9 +110,19 @@ I work across the full development lifecycle — from **UI/UX-aware frontend des
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=120&section=footer&animation=twinkling&text=Feel Free To Contact Me" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api
+      ?type=waving
+      &color=gradient
+      &customColorList=12,15,20,24
+      &height=120
+      &section=footer
+      &animation=twinkling
+      &text=FEEL%20FREE%20TO%20CONTACT%20ME
+      &fontSize=26
+      &fontAlignY=60
+      &fontColor=FFFFFF"
+    width="100%" 
+  />
 </div>
 
-<div align="center" style="margin-top: -55px;">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Kushal%20Jamarkattel-6F42C1?style=for-the-badge" />
-</div>
