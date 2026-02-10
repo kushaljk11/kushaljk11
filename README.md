@@ -110,7 +110,7 @@ I work across the full development lifecycle — from **UI/UX-aware frontend des
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center" style="margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=120&section=footer&animation=twinkling&text=Feel Free To Contact Me" width="100%" />
 </div>
 
 <div align="center" style="margin-top: -55px;">
