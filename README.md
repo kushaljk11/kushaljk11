@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=220&section=header&text=KUSHAL%20JAMARKATTEL&fontSize=60&fontAlignY=36&animation=fadeIn&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20UI%2FUX-Aware%20Engineer%20%7C%20Nepal%20🇳🇵&descAlignY=62&descSize=21" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=220&section=header&text=KUSHAL%20JAMARKATTEL&fontSize=60&fontAlignY=36&animation=fadeIn&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20UI%2FUX-%20Designer%20Nepal%20🇳🇵&descAlignY=62&descSize=21" width="100%" />
 </div>
 
 <!-- ===================== INTRO TYPING ===================== -->
