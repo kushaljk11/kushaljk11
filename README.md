@@ -11,7 +11,7 @@
 <!-- ===================== LINKS ===================== -->
 <div align="center" style="margin: 25px 0;">
   <a href="https://www.linkedin.com/in/kushal-jamarkattel-72639a330/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&bg-red" />
   </a>
   <a href="https://kushaljamarkattel.com.np">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -25,17 +25,17 @@
 ---
 
 <!-- ===================== ABOUT ===================== -->
-## 👋 About Me
+## About Me
 
 I’m **Kushal Jamarkattel (JK)**, a **Full-Stack Developer from Nepal 🇳🇵** with experience building **scalable, maintainable, and user-focused web applications**.
 
-I work across the full development lifecycle — from **UI/UX-aware frontend design** to **robust backend systems**, always prioritizing **clean code, performance, and long-term scalability**.
+I work across the full development lifecycle from **UI/UX-aware frontend design** to **robust backend systems**, always prioritizing **clean code, performance, and long-term scalability**.
 
 <details>
   <summary><b>More details</b></summary>
 
   - Experience with **production-style applications**
-  - Strong understanding of **frontend–backend integration**
+  - Strong understanding of **frontend backend integration**
   - Interest in **system design & architecture**
   - Open to **internships, junior roles, and collaborations**
 
