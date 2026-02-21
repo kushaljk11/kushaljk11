@@ -25,7 +25,7 @@
 ---
 
 <!-- ===================== ABOUT ===================== -->
-## About Me
+## About Myself
 
 I’m **Kushal Jamarkattel (JK)**, a **Full-Stack Developer from Nepal 🇳🇵** with experience building **scalable, maintainable, and user-focused web applications**.
 
