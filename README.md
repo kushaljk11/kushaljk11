@@ -146,7 +146,7 @@ Hey there! I'm **Kushal Jamarkattel (JK)** — a passionate **Full-Stack Develop
 
 </div>
 
-> 💡 **Replace `YOUR_REPO_1` and `YOUR_REPO_2`** with your actual repository names above.
+> 💡 **Replace `https://github.com/kushaljk11/BaadFaad` and `https://github.com/kushaljk11/JK-Gym`** with your actual repository names above.
 
 ---
 
