@@ -141,7 +141,7 @@ Hey there! I'm **Kushal Jamarkattel (JK)** — a passionate **Full-Stack Develop
 |---|---|---|
 | **BaadFaad** — Social discussion platform | Next.js · TypeScript · MongoDB | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushaljk11/BaadFaad) |
 | **JK Gym** — Gym management system | React · Node.js · Express · MySQL | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushaljk11/JK-Gym) |
-| **Portfolio** — Personal developer portfolio | Next.js · TailwindCSS · TypeScript | [![Live](https://kushaljamarkattel.com.np/) |
+|  **Portfolio** — Personal developer portfolio | Next.js · TailwindCSS · TypeScript | [![Live](https://img.shields.io/badge/Live_Site-111111?style=flat-square&logo=vercel&logoColor=white)](https://kushaljamarkattel.com.np) |
 
 </div>
 
