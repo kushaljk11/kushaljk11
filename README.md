@@ -147,22 +147,37 @@ Hey there! I'm **Kushal Jamarkattel (JK)** — a passionate **Full-Stack Develop
 
 ---
 
-## 📈 My Development Principles
+## ⚡ Expertise & Skill Levels
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    HOW I BUILD SOFTWARE                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔷  TypeScript first  →  Catch errors at compile time       ║
-║  🧩  Component-driven  →  Reusable, testable, maintainable   ║
-║  📐  Clean architecture →  Separation of concerns always     ║
-║  🚀  Performance-aware →  Optimize for real users            ║
-║  🎨  UX-first thinking →  Build for humans, not machines     ║
-║  🔁  Iterative approach →  Ship · Learn · Improve · Repeat   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| Skill | Level | Proficiency |
+|---|---|---|
+| **React / Next.js** | ████████████████░░░░ | Advanced |
+| **TypeScript** | ███████████████░░░░░ | Advanced |
+| **Node.js / Express** | ██████████████░░░░░░ | Advanced |
+| **UI / UX Design** | █████████████░░░░░░░ | Intermediate+ |
+| **PostgreSQL / MongoDB** | ████████████░░░░░░░░ | Intermediate+ |
+| **Docker / DevOps** | █████████░░░░░░░░░░░ | Intermediate |
+| **System Design** | ████████░░░░░░░░░░░░ | Growing |
+
+</div>
+
+---
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript_First-Write_safe_code_by_default-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Component_Driven-Reusable_%26_Maintainable_UI-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Clean_Architecture-Separation_of_Concerns-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/UX_Aware-Build_for_Humans_Not_Machines-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Ship_·_Learn_·_Improve-Iterative_Development-6F42C1?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
