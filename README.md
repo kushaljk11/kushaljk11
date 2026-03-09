@@ -153,10 +153,10 @@ Hey there! I'm **Kushal Jamarkattel (JK)** — a passionate **Full-Stack Develop
 
 | Skill | Level | Proficiency |
 |---|---|---|
-| **React / Next.js** | ████████████████░░░░ | Advanced |
-| **TypeScript** | ████████░░░░░░░░░░░░░░░ | Advanced |
-| **Node.js / Express** | ███████████░░░░░░░░ | Advanced |
-| **UI / UX Design** | ███████████████░░░░░ | Intermediate+ |
+| **React / Next.js** | ████████████████░░░░ | Intermediate |
+| **TypeScript** | ████████░░░░░░░░░░░░░░░ | Intermediate |
+| **Node.js / Express** | ███████████░░░░░░░░ | Intermediate |
+| **UI / UX Design** | ███████████████░░░░░ | Advanced |
 | **PostgreSQL / MongoDB** | ████████████░░░░░░░░ | Intermediate+ |
 | **Docker / DevOps** | ███████░░░░░░░░░░░░░ | Intermediate |
 | **System Design** | ████████░░░░░░░░░░░░ | Growing |
