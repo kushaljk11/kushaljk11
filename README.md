@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="260" />
 
 Hey there! I'm **Kushal Jamarkattel (JK)** — a passionate **Full-Stack Developer from Nepal 🇳🇵** who loves turning ideas into fast, scalable, and beautiful web applications.
 
@@ -137,24 +137,34 @@ Hey there! I'm **Kushal Jamarkattel (JK)** — a passionate **Full-Stack Develop
 
 <div align="center">
 
-<a href="https://github.com/kushaljk11">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushaljk11&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-<a href="https://github.com/kushaljk11">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushaljk11&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" width="49%" />
-</a>
+| 🏗️ Project | 🔧 Stack | 🌐 Link |
+|---|---|---|
+| **BaadFaad** — Social discussion platform | Next.js · TypeScript · MongoDB | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushaljk11/BaadFaad) |
+| **JK Gym** — Gym management system | React · Node.js · Express · MySQL | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushaljk11/JK-Gym) |
+| **Portfolio** — Personal developer portfolio | Next.js · TailwindCSS · TypeScript | [![Live](https://img.shields.io/badge/Live_Site-111111?style=flat-square&logo=vercel&logoColor=white)](https://kushaljamarkattel.com.np) |
 
 </div>
 
-> 💡 **Replace `https://github.com/kushaljk11/BaadFaad` and `https://github.com/kushaljk11/JK-Gym`** with your actual repository names above.
-
 ---
 
-## 📈 Coding Activity
+## 📈 My Development Principles
 
-<!--START_SECTION:waka-->
-> 🕒 WakaTime stats will appear here once you connect your [WakaTime](https://wakatime.com) account and set up the [WakaTime GitHub Action](https://github.com/marketplace/actions/waka-readme).
-<!--END_SECTION:waka-->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    HOW I BUILD SOFTWARE                      ║
+╠══════════════════════════════════════════════════════════════╣
+║  🔷  TypeScript first  →  Catch errors at compile time       ║
+║  🧩  Component-driven  →  Reusable, testable, maintainable   ║
+║  📐  Clean architecture →  Separation of concerns always     ║
+║  🚀  Performance-aware →  Optimize for real users            ║
+║  🎨  UX-first thinking →  Build for humans, not machines     ║
+║  🔁  Iterative approach →  Ship · Learn · Improve · Repeat   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
