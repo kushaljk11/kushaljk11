@@ -33,7 +33,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="260" />
 
-Hey there! I'm **Kushal Jamarkattel (JK)** — a passionate **Full-Stack Developer from Nepal 🇳🇵** who loves turning ideas into fast, scalable, and beautiful web applications.
+Hey there! I'm **Kushal Jamarkattel (JK)**  a passionate **Full-Stack Developer from Nepal 🇳🇵** who loves turning ideas into fast, scalable, and beautiful web applications.
 
 **What I bring to the table:**
 
