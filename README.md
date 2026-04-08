@@ -120,11 +120,10 @@ Hey there! I'm **Kushal Jamarkattel (JK)**  a passionate **Full-Stack Developer 
 
 | 🏗️ Project | 🔧 Stack | 🌐 Link |
 |---|---|---|
-| **BaadFaad** — Bill Spliting Platform | MERN · TypeScript · MongoDB | [![Live](https://baadfaad.vercel.app/)] |
+| **BaadFaad** — Bill Spliting Platform | MERN · TypeScript · MongoDB | [![Live](https://img.shields.io/badge/Live_Site-111111?style=flat-square&logo=vercel&logoColor=white)](https://baadfaad.vercel.app/) |
 | **JK Gym** — Gym management system | React · Node.js · Express · MySQL | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushaljk11/JK-Gym) |
-|  **Portfolio** — Personal developer portfolio | Next.js · TailwindCSS · TypeScript | [![Live](https://img.shields.io/badge/Live_Site-111111?style=flat-square&logo=vercel&logoColor=white)]
-(https://kushaljamarkattel.com.np) |
-|  **EasyKotha** — Social discussion platform | PERN · TypeScript · | [![Live](https://easykotha.vercel.app/)] |
+|  **Portfolio** — Personal developer portfolio | Next.js · TailwindCSS · TypeScript | [![Live](https://img.shields.io/badge/Live_Site-111111?style=flat-square&logo=vercel&logoColor=white)](https://kushaljamarkattel.com.np) |
+|  **EasyKotha** — Social discussion platform | PERN · TypeScript · | [![Live](https://img.shields.io/badge/Live_Site-111111?style=flat-square&logo=vercel&logoColor=white)](https://easykotha.vercel.app/) |
 
 </div>
 
