@@ -43,21 +43,6 @@ Hey there! I'm **Kushal Jamarkattel (JK)**  a passionate **Full-Stack Developer 
 - 🎨 **UI/UX-aware** engineering — I care about how things *look and feel*
 - 🏗️ **Clean, scalable code** built for production and long-term maintainability
 
-> *"Code is read more often than it is written."* — I write code my future self will thank me for.
-
-<details>
-  <summary><b>📖 More About Me</b></summary>
-  <br/>
-
-  - 🌏 Based in **Nepal**, open to **remote opportunities worldwide**
-  - 🎓 Strong foundation in CS fundamentals & system design
-  - 🔁 Experience with real-world, production-style full-stack applications
-  - 🤝 Open to **internships**, **junior roles**, and **open-source collaborations**
-  - 📈 Focused on long-term growth as a **senior full-stack engineer**
-  - 🧩 Enjoy solving architecture problems and designing robust systems
-
-</details>
-
 <br clear="right"/>
 
 ---
@@ -79,7 +64,6 @@ Hey there! I'm **Kushal Jamarkattel (JK)**  a passionate **Full-Stack Developer 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
@@ -139,42 +123,6 @@ Hey there! I'm **Kushal Jamarkattel (JK)**  a passionate **Full-Stack Developer 
 | **BaadFaad** — Social discussion platform | Next.js · TypeScript · MongoDB | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushaljk11/BaadFaad) |
 | **JK Gym** — Gym management system | React · Node.js · Express · MySQL | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushaljk11/JK-Gym) |
 |  **Portfolio** — Personal developer portfolio | Next.js · TailwindCSS · TypeScript | [![Live](https://img.shields.io/badge/Live_Site-111111?style=flat-square&logo=vercel&logoColor=white)](https://kushaljamarkattel.com.np) |
-
-</div>
-
----
-
-## ⚡ Expertise & Skill Levels
-
-<div align="center">
-
-| Skill | Level | Proficiency |
-|---|---|---|
-| **React / Next.js** | ████████████████░░░░ | Intermediate |
-| **TypeScript** | ████████░░░░░░░░░░░░░░░ | Intermediate |
-| **Node.js / Express** | ███████████░░░░░░░░ | Intermediate |
-| **UI / UX Design** | ███████████████░░░░░ | Advanced |
-| **PostgreSQL / MongoDB** | ████████████░░░░░░░░ | Intermediate+ |
-| **Docker / DevOps** | ███████░░░░░░░░░░░░░ | Intermediate |
-| **System Design** | ████████░░░░░░░░░░░░ | Growing |
-
-</div>
-
----
-
-## 💡 Dev Philosophy
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript_First-Write_safe_code_by_default-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Component_Driven-Reusable_%26_Maintainable_UI-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Clean_Architecture-Separation_of_Concerns-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/UX_Aware-Build_for_Humans_Not_Machines-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Ship_·_Learn_·_Improve-Iterative_Development-6F42C1?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
