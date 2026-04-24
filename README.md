@@ -35,7 +35,7 @@
 
 Hey there! I'm **Kushal Jamarkattel (JK)**  a passionate **Full-Stack Developer from Nepal 🇳🇵** who loves turning ideas into fast, scalable, and beautiful web applications.
 
-**What I bring to the table:**
+**What I bring to the tablee:**
 
 - 🔷 **TypeScript-first** development mindset
 - ⚡ **Next.js & React** for modern frontend experiences
