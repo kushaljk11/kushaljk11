@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me, Myself
+## 👨‍💻 About Me,
 
 <img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="260" />
 
