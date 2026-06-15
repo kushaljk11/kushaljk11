@@ -1,4 +1,4 @@
-# Kushal Jamarkattel Here..
+# Kushal Jamarkattel Heree..
 
 Full-Stack Developer based in Nepal. I build scalable web applications with a focus on clean architecture and thoughtful UI/UX.
 
